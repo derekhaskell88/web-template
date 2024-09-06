@@ -1,0 +1,18 @@
+body {
+    background-color: darkgreen;
+}
+
+main {
+    text-align: center;
+    border: 1rem ridge darkgreen;
+    background-color: whitesmoke;
+}
+
+
+
+header,
+footer {
+    text-align: center;
+    color: whitesmoke;
+    background-color: darkgreen;
+}
